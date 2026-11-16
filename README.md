@@ -149,9 +149,11 @@ Selanjutnya dibuat folder proyek baru dengan nama `lab8_php_database` di dalam d
 http://localhost/lab8_php_database/
 ```
 
+![Struktur Folder](images/folder.png)
+
 ### Screenshot Direktori Project
 
-![Struktur Directory Project](images/directory.png)
+![Directory Project](images/directory.png)
 
 **Keterangan:**
 
