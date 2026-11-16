@@ -151,7 +151,7 @@ http://localhost/lab8_php_database/
 
 ### Screenshot Direktori Project
 
-![Struktur Folder Praktikum](images/folder.png)
+![Struktur Directory Project](images/directory.png)
 
 **Keterangan:**
 
