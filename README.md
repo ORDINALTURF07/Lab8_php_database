@@ -79,7 +79,7 @@ http://localhost/phpmyadmin/
 
 ### Screenshot XAMPP Control Panel
 
-![XAMPP](images/xampp.png)
+![xampp](images/xampp.png)
 
 **Keterangan:**
 
